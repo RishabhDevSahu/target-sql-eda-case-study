@@ -1,4 +1,4 @@
-# 📦 Target - SQL-Driven Business Insights & Strategic Growth Analysis
+# 📦 Target SQL - Driven Business Insights & Strategic Growth Analysis
 
 ## 🎯 Overview
 This project analyzes business performance data using SQL queries executed in **Google BigQuery**.  
